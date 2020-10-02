@@ -10,18 +10,18 @@ services:
     section: services
     list:
       - title: "Data Scraping"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "We provide scripts to scrape different websites using python tools like bs4, selenium, scrappy."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Python Automation"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Your boring tasks can be automated by our scaleable scripts."
         icon: fas fa-laptop       
       - title: "Bio Informatics"
-        desc: "Your description here, full **Markdown** support"
+        desc: "We solve bio informatics related problem."
         icon: fas fa-biohazard
 
 portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Our Projects."
     section: portfolio
     closebutton: "Close Project"
     
@@ -82,7 +82,7 @@ clients:
     
 team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "We are weavers."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
