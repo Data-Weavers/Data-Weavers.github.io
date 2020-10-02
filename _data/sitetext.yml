@@ -9,13 +9,13 @@ services:
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Data Scraping"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Python Automation"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Bio Informatics"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
@@ -86,8 +86,8 @@ team:
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Bishwa K Giri"
+        role: "CEO/ Project Manager"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -96,8 +96,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Bhuwan Aryal"
+        role: "Lead Developer"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -106,7 +106,7 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
+      - name: "Gopal Kisi"
         role: "Lead Developer"
         image: assets/img/team/500x500.jpg
         social:
