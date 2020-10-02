@@ -6,7 +6,7 @@ header:
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Our Services"
     section: services
     list:
       - title: "Data Scraping"
@@ -17,7 +17,7 @@ services:
         icon: fas fa-laptop       
       - title: "Bio Informatics"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fas fa-biohazard
 
 portfolio:
     title: "Portfolio"
