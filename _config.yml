@@ -17,7 +17,7 @@ url    : "https://data-weavers.github.io/" # the base hostname & protocol for yo
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : The Data Weavers
-email      : kirannbishwa01@gmail.com  #this is also the email contact forms will go to
+email      : bhuwanaryal19@gmail.com  #this is also the email contact forms will go to
 description: "Portofolio projects showcasing site for data weavers."
 author     : Bishwa K 
 # logo:     #optional, defaults to site title
