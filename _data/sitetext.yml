@@ -1,5 +1,5 @@
 header:
-    title: Welcome to our Studio!
+    title: Welcome to our Data Lab
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
@@ -28,33 +28,34 @@ portfolio:
 
 timeline:
     title: "About" 
-    text: "Lorem ipsum timeline"
+    text: "Our Timeline"
     section: timeline
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "2018"
+        desc: "Like minded individual passionate about data, science and tech to form a unique team."
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt: 
-        align: right
-      - title: "Jekyll Theme is created"
+      # - title: "An Agency is Born"
+      #   year: "March 2011"
+      #   desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      #   image: assets/img/timeline/2.jpg
+      #   alt: 
+      #   align: right
+      - title: "First project Completed"
         year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "We collectively made vcfparser python package."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-        #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        align: right
+        #default is left       
+      - title: "Working for clients"
+        year: "2020"
+        desc: "After 2 years of building internal tools we started doing freelancing projects."
         image: assets/img/timeline/4.jpg
         alt: 
-        align: right
+        align: left
     end: "Be Part <br> of Our <br> Story!"
 
 about:
@@ -65,12 +66,12 @@ about:
 clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "yes" #"yes/no"
     list:
-      - title: "envato"
+      - title: "Kely Dang"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
+      - title: "Vikent"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/designmodo.jpg
       - title: "themeforest"
@@ -88,7 +89,7 @@ team:
     people:
       - name: "Bishwa K Giri"
         role: "CEO/ Project Manager"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/kiran.jpeg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -98,7 +99,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Bhuwan Aryal"
         role: "Lead Developer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/vuon.JPG
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -108,7 +109,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Gopal Kisi"
         role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/gopal.jpeg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -119,7 +120,7 @@ team:
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Call us at 9860401886"
     section: contact
     
 footer:
