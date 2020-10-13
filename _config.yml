@@ -31,3 +31,4 @@ collections:
   portfolio:
 
 markdown: kramdown
+remote_theme: raviriley/agency-jekyll-theme
