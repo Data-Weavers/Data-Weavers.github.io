@@ -1,7 +1,7 @@
 header:
-    title: Welcome to our Data Lab
-    text: It's Nice To Meet You
-    button: Tell Me More
+    # title: Welcome to our Data Lab
+    # text: It's Nice To Meet You
+    # button: Tell Me More
     buttonlink: "#services"
 
 services:
@@ -84,7 +84,7 @@ clients:
 team:
     title: "OUR AMAZING TEAM"
     text: "We are weavers."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: We are data savvy individuals trying to extract information from data.
     section: team
     people:
       - name: "Bishwa K Giri"

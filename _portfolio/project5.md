@@ -1,12 +1,12 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Scraping Wikipedia
-  subtitle: Ectracting list of nobel laurates using beautifulsoup and requests.
+  title: Scraping website using API 
+  subtitle: Usng stack exchange api to extract data from stack overflow website.
   thumbnail: assets/img/portfolio/wiki.jpg
   
 #what displays when the item is clicked:
-title: Scraping Wikipedia
-subtitle: Ectracting list of nobel laurates using beautifulsoup and requests.
+title: Scraping Stackoverflow using API
+subtitle:  Usng stack exchange api to extract data from stack overflow website.
 image: assets/img/portfolio/wiki.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
@@ -18,4 +18,5 @@ optional info list (delete if not using):
 {:.list-inline} 
 - Date: 
 - Client: 
-- Category: Sceaping
+- Category: Scraping
+
