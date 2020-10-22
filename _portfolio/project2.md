@@ -9,7 +9,15 @@ caption:
   subtitle: Extension of the ReadBackPhased haplotypes using phASE-Extender.
   thumbnail: assets/img/portfolio/python.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+# Extension of the ReadBackPhased haplotypes using phASE-Extender.
+
+I will try to provide an exposure on the algorithm used by phase-Extender under the hood for the preparation of long range haplotypes (and possibly genome wide haplotype). phase-Extender uses short blocks of ReadBackPhased haplotypes in a population of samples and applies LD test between two consecutive blocks in one sample at a time . I am not delving into additional details of haplotype phasing and RBphasing – I am sure there are other excellent sources to gather information on this matter
+
+See this links:     
+  - Purpose and operation of Read-backed-phasing GATK
+  - Read backed phasing documentation GATK
+
 
 {:.list-inline}
 - Date: January 2017

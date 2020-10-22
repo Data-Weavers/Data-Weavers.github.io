@@ -11,12 +11,29 @@ image: assets/img/portfolio/wiki.jpg #main image, can be a link or a file in ass
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
 
-optional info list (delete if not using):
+Scraped three sites using their respective apis:
+
+a) [wordnet](https://wordnet.princeton.edu/?) 
+
+b) *Download patents and other information*
+             [lab partnering](https://www.labpartnering.org/)
+             [labworks](https://vps.labworks.org/)
+      
+      - get patents related to computer 
+      - get patents related to cancer biology 
+      - get name of labs that involved in cancer research 
+    
+    
+  c) *Do some complex data extraction using stackoverflow API*
+  
+      - python tagged top rated questions and answers
+      - get python tagged recent questions and upvote (auth required)
+      - Upvote on existing question (auth required)
+
 
 {:.list-inline} 
-- Date: 
+- Date: 2020/02/14
 - Client: 
 - Category: Scraping
 
